@@ -1,0 +1,208 @@
+body{
+ background-color: black;
+
+  
+}
+
+
+#buttonSkip1{
+  background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:30px;
+  font-weight: bold;
+}
+
+#buttonSkip2{
+	background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:30px;
+  font-weight: bold;
+}
+
+#buttonOther1{
+  background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:30px;
+  font-weight: bold;
+}
+
+#buttonOther2{
+  background-color:#ffffff;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#000000;
+	font-family:Arial;
+	font-size:30px;
+  font-weight: bold;
+}
+
+
+
+
+#result{
+  color: white;
+  font-size:100px;
+}
+
+#scoreboard1{
+  color: white;
+  font-size:50px;
+}
+#scoreboard2{
+  color: white;
+  font-size:50px;
+}
+
+#buttonStart{
+  box-shadow: 0px 0px 30px 0px #ffffff;
+	background-color:#000000;
+	border-radius:28px;
+	border:1px solid #ffffff;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:50px;
+	padding:19px 40px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+  
+}
+
+.container {
+    text-align: center;
+    margin-top: 100px;
+
+  }
+
+  h1 {
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(255, 255, 255);
+
+  }
+
+  #game-container {
+    margin-top: 50px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+  }
+  
+  #round-info {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  #scoreboard {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  #result {
+    margin-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+
+
+  .container img{
+    background-color: #fff;
+    height: 8rem; 
+    margin-top: 3rem;
+    border-radius: 3.3rem;
+  }
+  
+  .container img:hover{
+    
+    border-radius:5rem;
+    border:1px solid white;
+    cursor:pointer;
+    color:white;
+    
+  }
+
+  footer {
+    background-color: #0f0e0e;
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+    margin-top: 5rem;
+}
+
+
+footer >  ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+footer > ul >  li {
+    display: inline; 
+    margin-right: 10px; 
+}
+
+footer a {
+    color: #fff; 
+    text-decoration: none; 
+}
+
+
+
+  @media screen and (min-width: 1280px) {
+ 
+  }
+  
+ 
+ 
+ 
+ 
+  @media screen and (min-width: 921px) and (max-width: 1279px) {
+ 
+  }
+
+ 
+ 
+ 
+ 
+ 
+  @media screen and (min-width: 769px) and (max-width: 920px) {
+    
+  }
+
+  
+  
+  
+  
+  
+  @media screen and (min-width: 481px) and (max-width: 768px) {
+    
+  }
+  
+  
+  
+  
+  
+  
+  @media screen and (max-width: 480px) {
+
+  }
